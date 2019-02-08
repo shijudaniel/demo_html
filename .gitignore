@@ -1,2 +1,3 @@
-.xml
-.toml
+*.xml
+*.toml
+.DS_Store
